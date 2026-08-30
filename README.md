@@ -54,8 +54,8 @@ A more detailed interactive Wokwi project is also included in the repository. Th
 
 ## ELRS Setup
 
-<img width="323" height="327" alt="5235798393957850145" src="https://github.com/user-attachments/assets/86adf544-5668-4cbe-843c-848798178781" />
-<img width="438" height="319" alt="5235798393957850146" src="https://github.com/user-attachments/assets/45456074-17ec-4efe-91f3-c0499989bb05" />
+<img width="323" height="323" alt="5235798393957850145" src="https://github.com/user-attachments/assets/86adf544-5668-4cbe-843c-848798178781" />
+<img width="438" height="323" alt="5235798393957850146" src="https://github.com/user-attachments/assets/45456074-17ec-4efe-91f3-c0499989bb05" />
 
 Previously, I had only seen ELRS on YouTube and had some basic knowledge about the different band versions. After checking which bandwidths are allowed in my country and wanting to avoid interference with Wi-Fi and Bluetooth, I selected the 915 MHz version, which can be configured to 868 MHz via a software update.
 
