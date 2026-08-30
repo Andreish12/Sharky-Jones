@@ -1,6 +1,7 @@
 # Sharky Jones
 
 <img width="382" height="322" alt="5235798393957850157" src="https://github.com/user-attachments/assets/53728bdd-1150-43e4-86fb-0bb304f2ee7e" />
+
 *Sharky Jones — completed robot*
 
 Sharky Jones is an ESP32-based two-wheel robot and a winner of a university competition, featuring L293D motor control, a servo-powered forklift-style gripper, and an ELRS radio control system.
@@ -53,7 +54,7 @@ A more detailed interactive Wokwi project is also included in the repository. Th
 
 ## ELRS Setup
 
-<img width="721" height="1280" alt="5235798393957850145" src="https://github.com/user-attachments/assets/dbff8c96-2a5a-4ae9-8a3b-1b1156bc74b9" />
+<img width="288" height="512" alt="5235798393957850145" src="https://github.com/user-attachments/assets/dbff8c96-2a5a-4ae9-8a3b-1b1156bc74b9" />
 <img width="731" height="534" alt="5235798393957850146" src="https://github.com/user-attachments/assets/45456074-17ec-4efe-91f3-c0499989bb05" />
 
 Previously, I had only seen ELRS on YouTube and had some basic knowledge about the different band versions. After checking which bandwidths are allowed in my country and wanting to avoid interference with Wi-Fi and Bluetooth, I selected the 915 MHz version, which can be configured to 868 MHz via a software update.
