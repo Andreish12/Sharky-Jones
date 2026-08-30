@@ -50,7 +50,7 @@ Note that they do not have the full implementation of the final version.
 
 *Electrical wiring diagram*
 
-A more detailed interactive Wokwi project is also included in the repository. The archive was downloaded from the Wokwi website and contains the instructions and files required to use the simulation.
+A more detailed interactive Wokwi project is also included in the repository. 
 
 ## ELRS Setup
 
