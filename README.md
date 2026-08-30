@@ -1,2 +1,2 @@
-# Sharky-Jones-
-Robotic competition in uni
+# Sharky-Jones
+This is ps4 controller version
