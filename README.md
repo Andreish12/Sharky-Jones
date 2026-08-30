@@ -46,7 +46,7 @@ Several experimental PS4 controller versions were developed during the project. 
 Note that they do not have the full implementation of the final version.
 
 ## Wiring 
-<img width="818" height="914" alt="Screenshot_20260830_230757" src="https://github.com/user-attachments/assets/00d798a6-a502-455b-97d6-b842189cc0f7" />
+<img width="409" height="457" alt="Screenshot_20260830_230757" src="https://github.com/user-attachments/assets/00d798a6-a502-455b-97d6-b842189cc0f7" />
 
 *Electrical wiring diagram*
 
@@ -55,7 +55,7 @@ A more detailed interactive Wokwi project is also included in the repository. Th
 ## ELRS Setup
 
 <img width="288" height="512" alt="5235798393957850145" src="https://github.com/user-attachments/assets/dbff8c96-2a5a-4ae9-8a3b-1b1156bc74b9" />
-<img width="731" height="534" alt="5235798393957850146" src="https://github.com/user-attachments/assets/45456074-17ec-4efe-91f3-c0499989bb05" />
+<img width="292" height="213" alt="5235798393957850146" src="https://github.com/user-attachments/assets/45456074-17ec-4efe-91f3-c0499989bb05" />
 
 Previously, I had only seen ELRS on YouTube and had some basic knowledge about the different band versions. After checking which bandwidths are allowed in my country and wanting to avoid interference with Wi-Fi and Bluetooth, I selected the 915 MHz version, which can be configured to 868 MHz via a software update.
 
